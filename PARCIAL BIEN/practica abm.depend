@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1557086028 source:c:\users\user\desktop\otra practica abm\practica abm\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1556556607 source:c:\users\user\desktop\otra practica abm\practica abm\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557085900 source:c:\users\user\desktop\otra practica abm\practica abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557006625 c:\users\user\desktop\otra practica abm\practica abm\empleados.h
+
+1556644664 c:\users\user\desktop\otra practica abm\practica abm\funciones.h
+
+1556916571 source:c:\users\user\desktop\otra practica abm\practica abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1556556607 c:\users\user\desktop\otra practica abm\practica abm\input.h
+
+1557097878 source:c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557099239 c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\empleados.h
+
+1556556607 c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\input.h
+
+1557098695 c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\funciones.h
+
+1557097861 source:c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1556556607 source:c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557097880 source:c:\users\user\desktop\programacion-1\programacion 1\otra practica abm\practica abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+

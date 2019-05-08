@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1557101578 source:c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557100883 c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\empleados.h
+
+1556556608 c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\input.h
+
+1557098696 c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\funciones.h
+
+1557097862 source:c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1556556608 source:c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557101252 source:c:\users\user\desktop\programacion-1\programacion 1\primer parcial alvarez tomas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557152159 source:d:\primer parcial alvarez tomas\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557152067 d:\primer parcial alvarez tomas\empleados.h
+
+1557142030 d:\primer parcial alvarez tomas\input.h
+
+1557142030 d:\primer parcial alvarez tomas\funciones.h
+
+1557142030 source:d:\primer parcial alvarez tomas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1557142030 source:d:\primer parcial alvarez tomas\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557152093 source:d:\primer parcial alvarez tomas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557142032 source:e:\hecho en parcial\parcial hecho en clase\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1557142032 source:e:\hecho en parcial\parcial hecho en clase\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557284976 source:e:\hecho en parcial\parcial hecho en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"input.h"
+	"funciones.h"
+
+1557261662 e:\hecho en parcial\parcial hecho en clase\empleados.h
+
+1557142032 e:\hecho en parcial\parcial hecho en clase\input.h
+
+1557142032 e:\hecho en parcial\parcial hecho en clase\funciones.h
+
+1557261856 source:e:\hecho en parcial\parcial hecho en clase\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+	"funciones.h"
+
+1557284990 source:e:\hecho en parcial\parcial hecho en clase\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"input.h"
+	"funciones.h"
+
+1557284824 e:\hecho en parcial\parcial hecho en clase\socios.h
+
+1557142032 source:e:\parcial bien\parcial hecho en clase\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1557142032 source:e:\parcial bien\parcial hecho en clase\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1557289410 source:e:\parcial bien\parcial hecho en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca/socios.h"
+	"biblioteca/funciones.h"
+	"biblioteca/libros.h"
+	"biblioteca/autores.h"
+	"biblioteca/prestamos.h"
+	"biblioteca/input.h"
+
+1557287608 e:\parcial bien\parcial hecho en clase\socios.h
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+
+1557142032 e:\parcial bien\parcial hecho en clase\input.h
+
+1557142032 e:\parcial bien\parcial hecho en clase\funciones.h
+
+1557287428 e:\parcial bien\parcial hecho en clase\libros.h
+	"autores.h"
+	"socios.h"
+
+1557287200 e:\parcial bien\parcial hecho en clase\autores.h
+
+1557287638 e:\parcial bien\parcial hecho en clase\prestamos.h
+	"autores.h"
+	"prestamos.h"
+	"socios.h"
+
+1557290402 source:e:\parcial bien\parcial hecho en clase\biblioteca\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1557290388 source:e:\parcial bien\parcial hecho en clase\biblioteca\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"input.h"
+
+1557289366 source:e:\parcial bien\parcial hecho en clase\biblioteca\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"libros.h"
+
+1557289664 e:\parcial bien\parcial hecho en clase\biblioteca\libros.h
+	"socios.h"
+
+1557290162 e:\parcial bien\parcial hecho en clase\biblioteca\socios.h
+
+1557289304 e:\parcial bien\parcial hecho en clase\biblioteca\funciones.h
+
+1557290288 e:\parcial bien\parcial hecho en clase\biblioteca\autores.h
+	"socios.h"
+
+1557290510 e:\parcial bien\parcial hecho en clase\biblioteca\prestamos.h
+	"socios.h"
+
+1557289308 e:\parcial bien\parcial hecho en clase\biblioteca\input.h
+
+1557289388 source:e:\parcial bien\parcial hecho en clase\biblioteca\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"funciones.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+	"input.h"
+
+1557290152 source:e:\parcial bien\parcial hecho en clase\biblioteca\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"funciones.h"
+	"libros.h"
+	"autores.h"
+	"prestamos.h"
+	"input.h"
+
+1557290768 source:e:\parcial bien\parcial hecho en clase\biblioteca\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"autores.h"
+
